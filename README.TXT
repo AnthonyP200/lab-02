@@ -20,3 +20,15 @@ How to start this project: Create one or more TicketMachine objects.
 7.Changing the name from Public class to Class pubic makes it so that it doesn't work anymore.
 8.Removing Public doesn't affect it and everything will work as normal.
 9.Removing the word Class makes it fail and won't work unlike taking out Public.
+10.The constructor is called (Public Ticketmachine)
+11.The constructors are capitalized because they need to copy the name of the object their controlling.
+12.Private int coubnt: The initial value of what ever you're inputting to the code. Private students representative: Member of a student class. Private server host:the client that the code is being written on.
+13.The names are Alive,Tutor and Game.
+14.Students representative, Person tutor, server host and Game game.
+15.It doesn't change anything as long as the code stays the same the order in which they are placed won't affect it.
+16.Yes it is necessary to have a semicolon at the end since it is a rule and then it doesn't work.
+17.int Status;
+18.Theres no class since it's public.
+19. 1 Public.
+20. No they don't need to be persistent.
+21.
