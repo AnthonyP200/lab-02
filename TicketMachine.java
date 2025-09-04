@@ -35,6 +35,11 @@ public class TicketMachine
     {
         return price;
     }
+    
+    public int getTotal()
+    {
+        return total;
+    }
 
     /**
      * Return The amount of money already inserted for the next ticket.
@@ -51,7 +56,7 @@ public class TicketMachine
     public void insertMoney(int amount)
     {
         if(amount > 0) {
-            amount = amount + amount;
+            this.amount = this.amount + amount;
         }
         else {
             System.out.println("Use a positive amount rather than: " + amount);
