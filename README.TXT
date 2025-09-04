@@ -38,4 +38,23 @@ this.name = petsName;
 23.The header is an int and the body is a void. The body is used with the =.
 24.How much is in the ticket machine?
 25.Everything in the body that says balance you must change it to amount.
-27.
+27.Error trying to compile since there is error in the code
+28.One is a void and the other is an integer
+29. Not return statements since it's an system output.
+31.public void increaseScore(intPoints)
+{
+  this.score += points;
+}
+32.This method changes the value of balance; hence the object's state is mutated.
+33.public void discount(int amount)
+{
+  price = price - amount;
+}
+34.public void setAge(int currentAge)
+{
+  this.age = currentAge;
+}
+37. My cat has green eyes
+39.The actual price of the ticket won't show meaning that the word "price" will show since you won't be requesting the actual price.
+40.The # price and cents word will show since they are in qutation marks.
+41.
