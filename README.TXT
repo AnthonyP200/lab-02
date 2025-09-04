@@ -31,4 +31,11 @@ How to start this project: Create one or more TicketMachine objects.
 18.Theres no class since it's public.
 19. 1 Public.
 20. No they don't need to be persistent.
-21.
+21.public Pet(String petsName)
+{
+this.name = petsName;
+}
+23.The header is an int and the body is a void. The body is used with the =.
+24.How much is in the ticket machine?
+25.Everything in the body that says balance you must change it to amount.
+27.
