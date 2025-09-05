@@ -57,4 +57,6 @@ this.name = petsName;
 37. My cat has green eyes
 39.The actual price of the ticket won't show meaning that the word "price" will show since you won't be requesting the actual price.
 40.The # price and cents word will show since they are in qutation marks.
-41.
+42.Once you call the showPrice method to both ticket machines they both send different amounts. It's different since youre calling the method on different machines
+44.Once you add the ticket to a fixed price of 1000 cents, once you create a ticket-machine it asks you to name iti instead of entering a value for how much ticket should cost.
+46.No it doesnt need any parameters since it has a total state, and it is a mutator because it changes the state instead of getting data/information in any way.
